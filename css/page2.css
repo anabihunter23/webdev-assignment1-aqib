@@ -11,10 +11,14 @@ body{
     border-radius: 50px;
 }
 
-#linktoshop{
-    color: gray;
+.figures{
+    display: inline-block;
 }
 
-.links{
+.table{
+    display: inline;
+}
+
+.link{
     margin: 20px;
 }
