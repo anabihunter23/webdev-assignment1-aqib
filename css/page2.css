@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+    color: gray;
+    font-size: 30px;
+    text-align: center;
+}
+
+.images{
+    display: inline;
+    margin: 10px;
+    border-radius: 50px;
+}
+
+#linktoshop{
+    color: gray;
+}
+
+.links{
+    margin: 20px;
+}
