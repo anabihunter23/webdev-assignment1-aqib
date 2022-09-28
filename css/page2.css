@@ -11,10 +11,10 @@ body{
     border-radius: 50px;
 }
 
-#linktoprofile{
-    color: gray;
+.table{
+    display: inline;
 }
 
-.links{
+.link{
     margin: 20px;
 }
