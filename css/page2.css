@@ -11,6 +11,10 @@ body{
     border-radius: 50px;
 }
 
+.figures{
+    display: inline-block;
+}
+
 .table{
     display: inline;
 }
